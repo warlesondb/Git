@@ -1,0 +1,13 @@
+ git config --global core.editor "vim"
+ git add
+ git commit
+ git push
+ git pull
+ git config
+ git status
+ git log
+ git clone
+ git rm
+ git checkout master
+ git checkout -b <nova_branch>
+ git push origin <nova_branch>
